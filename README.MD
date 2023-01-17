@@ -9,8 +9,7 @@ This program prints specific facts about a local git repository. It takes one ar
 Getting Started
 Clone the repository 
 
-1. git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-
+1. git clone https://github.com/memoriesdead/Rufus-Project.git
 Run the script
 
 2. python git_info.py "git_dir"
